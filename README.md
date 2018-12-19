@@ -1,4 +1,4 @@
-Программа сегментации людей на изображении на основе нейросети "Mask R-CNN" 
+Программа сегментации людей на изображении на основе нейросети "Mask R-CNN"
 (https://github.com/spmallick/learnopencv/tree/master/Mask-RCNN)
 
 Программа реализована на С++ в Visual Studio 2017
